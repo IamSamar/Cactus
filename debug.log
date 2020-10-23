@@ -1,0 +1,5 @@
+[1022/032213.891:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1022/235646.529:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1023/034408.914:ERROR:process_info.cc(359)] UncheckedAllocate
+[1023/034408.916:ERROR:process_info.cc(359)] UncheckedAllocate
+[1023/034408.961:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Sammy\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1fbffe6b-0952-463c-b427-3e75894cc878: The system cannot find the path specified. (0x3)

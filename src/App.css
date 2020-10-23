@@ -1,0 +1,48 @@
+.contact-us{
+  margin-top: 1rem;
+  margin-left: 8rem;
+  padding-right: 5rem;
+  padding-left: 4rem;
+  color:red
+}
+
+.shadow {
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    3px 3px 5px 6px #ccc;  /* Firefox 3.5 - 3.6 */
+  box-shadow:         3px 3px 5px 6px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
+.width{
+  width: 172px;
+  height: 205px;
+}
+
+.new-adventure{
+  width: 180px;
+  height: 177px;
+  color:#FFFF;
+}
+
+.red-background{
+  background: #FF3946;
+}
+
+-webkit-input-placeholder{
+  color: #000000;
+}
+
+.footer{
+  background: #314584
+}
+
+.fa-facebook-square{
+  color:white;
+}
+
+.fa-twitter{
+  color:white;
+}
+.fa-dribbble{
+  color:white;
+}
+
